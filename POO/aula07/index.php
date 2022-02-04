@@ -21,6 +21,7 @@
 
       
       
+      $l[0]->status();
       $l[0]->apresentar();
     ?>
   </pre>
